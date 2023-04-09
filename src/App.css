@@ -1,0 +1,105 @@
+.App {
+  display: flex;
+  align-items: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin-top: 10%;
+}
+
+.h1 {
+  color: #ffffff;
+  text-align: center;
+  font-size: 30px;
+  margin-top: 60px;
+  padding-top: 20px;
+}
+
+.card-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.card {
+  display: flex;
+  vertical-align: top;
+  margin: 5px;
+  border-radius: 8px;
+  padding: 10px;
+  width: 20em;
+  text-align: center;
+  box-shadow: rgba(151, 11, 18, 0.35) 0px 5px 15px;
+  color: #b31c1c;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 20px;
+}
+
+.degerler {
+  font-weight: bold;
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+.toastt {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  width: 25em;
+  font-size: 25px;
+  box-shadow: rgba(219, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 35px;
+}
+
+#title {
+  color: rgb(148, 5, 5);
+  text-align: center;
+  font-size: 35px;
+  margin-right: 20px;
+  margin-left: 80px;
+  margin-top: 20px;
+}
+
+#text {
+  color: rgb(107, 3, 3);
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.button-container {
+  display: flex;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  width: 25em;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+
+  padding: 30px;
+  padding-top: 30px;
+  border: 30px solid;
+  border-radius: 10px;
+  background-color: #f43232;
+  color: #f43232;
+  cursor: pointer;
+  box-shadow: #f43232 0px 5px 15px;
+}
+
+#celciusyazi {
+  color: #ac2828;
+  text-align: center;
+  margin-top: 30px;
+  margin-right: 30px;
+  width: auto;
+  font-size: 40px;
+}
+.butonyazısı {
+  color: #ffffff;
+  text-align: center;
+  width: auto;
+  font-size: 20px;
+}
