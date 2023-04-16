@@ -3,8 +3,7 @@
 Demo: https://digitaltermometre.netlify.app/
 Youtube Link: https://youtu.be/MJ_R5shloQQ
 
-![2023-04-16 (33)](https://user-images.githubusercontent.com/112883476/232312169-1ead6990-1b61-436f-ae74-153c8478d5f3.png)
-
+![2023-04-16 (34)](https://user-images.githubusercontent.com/112883476/232312184-c16b9c03-e168-4e22-bb71-3e39ff155527.png)
 
 # Getting Started with Create React App
 
