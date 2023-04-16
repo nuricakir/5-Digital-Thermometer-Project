@@ -1,3 +1,11 @@
+# 5 - Dijital Termometre Projesi
+
+Demo: https://digitaltermometre.netlify.app/
+Youtube Link: https://youtu.be/MJ_R5shloQQ
+
+![2023-04-16 (33)](https://user-images.githubusercontent.com/112883476/232312169-1ead6990-1b61-436f-ae74-153c8478d5f3.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
